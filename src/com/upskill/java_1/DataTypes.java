@@ -21,9 +21,11 @@ System.out.Println(city);
 System.out.Println(state);
 
 // git test
-int a=45
-
-int b = 14
+     int a = 6;
+    		 
+    	int b =8;
+    	
+    	int c =7;
 	      
 	      
 	}
